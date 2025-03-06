@@ -244,7 +244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrustFactor: 5
   rotationFactor: 10
-  thrustSound: {fileID: 8300000, guid: 1602ccf376a00a04c883cc17f27d67d8, type: 3}
+  thrustSound: {fileID: 8300000, guid: b30658ba8319846e8acefce4270b8064, type: 3}
   thrust:
     m_Name: Thrust
     m_Type: 0
